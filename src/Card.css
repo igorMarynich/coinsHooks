@@ -1,0 +1,17 @@
+.cards, .card, .inputValue {
+    display: flex;
+}
+.keyData, .rowValue {
+    margin-right: 20px;
+}
+
+.button {
+    margin: 5px;
+}
+
+.active {
+    background-color: green;
+    margin: 5px;
+}
+
+
